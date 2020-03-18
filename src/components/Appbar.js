@@ -8,7 +8,7 @@ import {
 } from "@material-ui/core";
 
 export default props => (
-  <AppBar position="static">
+  <AppBar position="s">
     <Toolbar>
   
       <Typography variant="headline">News</Typography>
